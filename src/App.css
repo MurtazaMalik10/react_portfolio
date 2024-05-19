@@ -1,0 +1,16 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+}
+.intro-section, .skills-section, .projects-section, .contact-section {
+  padding: 60px 0;
+}
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+.bio {
+  text-align: center;
+}
+ 
